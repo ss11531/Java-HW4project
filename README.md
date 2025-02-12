@@ -1,34 +1,6 @@
 # Java-HW4project
 Java購物管理系統
-目錄結構如下
-HW4\src
-├─controller
-│  ├─member
-│  │   AddMemberErrorUI.java
-│  │   AddMemberSuccessUI.java
-│  │   AddMemberUI.java
-│  │   LoginErrorUI.java
-│  │   LoginSuccessUI.java
-│  │   LoginUI.java
-│  └─mlist
-│       AddMlist UI.java
-│       ManagerMlistUI.java
-│       MlistMainUI.java
-├─dao
-│  ├─MemberDao.java
-│  ├─MlistDao.java
-│  └─impl
-│       MemberDaoImpl.java
-│       MlistDaoImpl.java
-├─model
-│   Member.java
-│  Mlist .java
-├─service
-│   MemberService.java
-│   MlistService.java
-│   └─impl
-│       MemberServiceImpl.java
-│       MlistService.java
-└─util
-│ DbConnection.java
-│ Tool.java
+## 專案說明
+購物管理系統，基於 MVC（Model-View-Controller） 設計來組織系統架構。系統包含 DAO層和 Service 層，使用後端 MySQL 進行資料庫操作。
+<hr>
+<ul>
