@@ -78,5 +78,16 @@
 - ` DbConnection.java `-管理資料庫的連線。
 - ` Tool.java `-通用工具類別輔助函數。
 ---
+### 使用畫面
 
+#### 登入畫面
+![登入畫面](https://raw.githubusercontent.com/ss11531/Java-HW4project/main/photo/login.png)
 
+#### 訂單管理選項
+![訂單管理選項](https://raw.githubusercontent.com/ss11531/Java-HW4project/main/photo/mlistMain.png)
+
+#### 新增訂單
+![新增訂單](https://raw.githubusercontent.com/ss11531/Java-HW4project/main/photo/addMlist.png)
+
+#### 管理訂單
+![管理訂單](https://raw.githubusercontent.com/ss11531/Java-HW4project/main/photo/managerMlist.png)
